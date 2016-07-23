@@ -1,7 +1,7 @@
 //
 //  CalculatorBrain.swift
 //  Calculator 2.0
-//
+//Skippp
 //  Created by Nicholas Ionata on 7/21/16.
 //  Copyright © 2016 Frums Studio. All rights reserved.
 //
